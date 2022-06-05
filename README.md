@@ -1,16 +1,18 @@
-### 👋 Hi, I'm Pedro Mariotti!
+## 👋 Hi, I'm Pedro Mariotti!
 
-#### :eyes: A little about me:
-🌱 I’m a front end web developer with real project experience using **ReactJS, HTML, CSS and raw JavaScript**
-<br>
+### :man_technologist:  A little about me:
+
+🌱 I’m mainly a front end web developer with real project experience using **ReactJS, HTML, CSS and raw JavaScript**
+
 💞️ Currently a volunteer working as a project manager at UFBA's (Federal University of Bahia) IT junior enterprise [InfoJr](https://www.linkedin.com/company/infojrufba/mycompany/)
-<br>
+
+---
 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/pedro-mariotti-4488121a2/)
   - [Twitter](https://twitter.com/Mariotti1337)
   - [Discord](discord.com/users/307999117710327808)
-<br>
-Other Repos 
+
+Other Repos: 
   - [Gitlab](https://gitlab.com/mariottipedro14)
 
 
