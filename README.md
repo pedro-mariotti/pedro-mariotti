@@ -6,6 +6,8 @@
 
 💞️ Currently a volunteer working as a project manager at UFBA's (Federal University of Bahia) IT junior enterprise [InfoJr](https://www.linkedin.com/company/infojrufba/mycompany/)
 
+🐈 I love cats
+
 ---
 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/pedro-mariotti-4488121a2/)
