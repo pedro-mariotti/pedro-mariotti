@@ -14,7 +14,7 @@
   - [Twitter](https://twitter.com/Mariotti1337)
   - [Discord](discord.com/users/307999117710327808)
 
-Other Repos: 
+📓 Other Repositories: 
   - [Gitlab](https://gitlab.com/mariottipedro14)
 
 
