@@ -2,9 +2,11 @@
 
 ### :man_technologist:  A little about me:
 
-🌱 I’m mainly a front end web developer with real project experience using **ReactJS, HTML, CSS and raw JavaScript**
+🌱 I’m a front end web developer with real project experience using **ReactJS, HTML, CSS and raw JavaScript**
 
-💞️ Currently a volunteer working as a project manager at UFBA's (Federal University of Bahia) IT junior enterprise [InfoJr](https://www.linkedin.com/company/infojrufba/mycompany/)
+🎮 I also have experience with game developing using the **Unity Engine**
+
+💞️ Currently a volunteer working as a game developer at [Bragi Estúdios](https://bragiestudios.com/)
 
 🐈 I love cats
 
