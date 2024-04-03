@@ -2,11 +2,11 @@
 
 ### :man_technologist:  A little about me:
 
-🌱 I’m a front end web developer with real project experience using **ReactJS, HTML, CSS and raw JavaScript**
+🌱 I’m a Game Developer and Front end Web Developer with real project experience using **ReactJS, HTML, CSS and raw JavaScript**
 
-🎮 I also have experience with game developing using the **Unity Engine**
+🎮 I also have experience with game developing using the **Unity Engine 2D**
 
-💞️ Currently a volunteer working as a game developer at [Bragi Estúdios](https://bragiestudios.com/)
+💞️ Currently working as an intern game developer at [Bragi Estúdios](https://bragiestudios.com/)
 
 🐈 I love cats
 
