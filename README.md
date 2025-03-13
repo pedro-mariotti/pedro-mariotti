@@ -4,7 +4,7 @@
 
 🌱 I’m a Game Developer and Front end Web Developer with real project experience using **ReactJS, HTML, CSS and raw JavaScript**
 
-🎮 I also have experience with game developing using the **Unity Engine 2D**
+🎮 I also have experience with game developing using the **Unity Engine 2D** and **GameMaker Studio 2**
 
 💞️ Currently working as an intern game developer at [Bragi Estúdios](https://bragiestudios.com/)
 
