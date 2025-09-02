@@ -6,7 +6,7 @@
 
 🎮 I also have experience with game developing using the **Unity Engine 2D** and **GameMaker Studio 2**
 
-💞️ Currently working as an intern game developer at [Bragi Estúdios](https://bragiestudios.com/)
+💞️ Currently working as an junior game developer at [Bragi Estúdios](https://bragiestudios.com/)
 
 🐈 I love cats
 
